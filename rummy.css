@@ -1,0 +1,1093 @@
+.header {
+    height: 55px;
+    width: 100%;
+    background-color: black;
+    top: 0px;
+    position: sticky;
+
+}
+
+.rummy-logo {
+    padding-top: 13px;
+    /* flex-grow: 1px; */
+    /* width: 185px;
+    height: 3px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: solid;
+    border-bottom-color: #534f4f40;
+    margin-top: 20px;
+    margin-left: 134px;
+}
+
+.about-us {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 190px;
+}
+
+.about-us:hover {
+    transition: 0.3s ease all;
+    color: orange;
+}
+
+.how-to-play-r {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: aliceblue
+}
+
+.how-to-play-r:hover {
+    transition: 0.3s ease all;
+    color: orange;
+}
+
+.culture-o-r {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: aliceblue
+}
+
+.why-r-c {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: aliceblue;
+    margin-right: 47px;
+}
+
+.culture-o-r:hover {
+    transition: 0.3s ease all;
+    color: orange;
+}
+
+.why-r-c:hover {
+    transition: 0.3s ease all;
+    color: orange;
+}
+
+.left-section {
+    height: 600px;
+    /* width: 100%; */
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin-left: 190px;
+    justify-content: space-evenly;
+    position: absolute;
+}
+
+.left-para1 {
+    color: rgba(247, 240, 237, 0.788);
+    font-size: 13px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: lighter;
+}
+
+* {
+    font-family: 'Mukta', sans-serif;
+    margin: 0px;
+    background-color: black;
+}
+
+.left-para2 {
+    font-family: 'Mukta', sans-serif;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.mobile-no {
+    height: 55px;
+    width: 450px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+.app-link {
+    height: 40px;
+    width: 480px;
+    background-color: orange;
+    border-radius: 28px;
+    height: 65px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.no-bots {
+    height: 93px;
+    width: 50px;
+}
+
+.yellow {
+    color: rgb(232, 165, 40);
+    text-align: center;
+}
+
+.div-no-bots {
+    display: flex;
+    flex-direction: row;
+    width: 435px;
+    justify-content: space-between;
+    background-color: black;
+    margin-left: 10px;
+}
+
+.container {
+    background-color: black;
+    height: 4000px;
+
+}
+
+.app-link:hover {
+    background-color: lightsalmon;
+}
+
+.div-no-bots-text {
+    display: flex;
+    flex-direction: row;
+    width: 448px;
+    justify-content: space-between;
+    margin-left: 11px;
+    margin-top: -35px;
+}
+
+/* .right-section {
+
+    height: 486px;
+    width: 650px;
+    float: right;
+    position: relative;
+    margin-right: 150px;
+    margin-top: 45px;
+    border-radius: 10px;
+    background-color: rgb(139, 32, 32);
+    padding-top: 0px;
+} */
+
+.trusted-platform {
+    height: 394px;
+    width: 1132px;
+    margin-top: 800px;
+    margin-left: 191px;
+    padding-top: 90px;
+    background-color: rgb(21, 20, 20);
+}
+
+.right-section img {
+    padding-left: 20px;
+    object-fit: fill;
+    background-size: cover;
+    width: 560px;
+    height: 556px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+/* .right-section video {
+    padding-left: 20px;
+    object-fit: fill;
+    -webkit-background-size: cover;
+    background-size: cover;
+} */
+.trusted-platform-div {
+    height: 600px;
+    width: 100%;
+    background-color: rgb(21, 20, 20);
+}
+
+.exciting-cash-g {
+    height: 150px;
+    width: 100%;
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(27, 29, 35);
+}
+
+.exciting-cash-g p {
+    font-family: 'Mukta', sans-serif;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 600;
+    padding-top: 66px;
+    padding-left: 192px;
+
+    background-color: rgb(27, 29, 35);
+}
+
+.point-div {
+    display: flex;
+    flex-direction: row;
+    height: 215px;
+    width: 65%;
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(27, 29, 35);
+    justify-content: space-evenly;
+    margin-left: 160px;
+}
+
+.point-img {
+    height: 200px;
+    width: 162px;
+    background-color: rgb(32, 32, 32);
+}
+
+/* .view-all {
+    float: right;
+    margin-top: -102px;
+    font-size: small;
+    margin-right: 80px;
+} */
+
+.mark-div {
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    flex-wrap: wrap;
+    width: 65%;
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(27, 29, 35);
+    justify-content: space-evenly;
+    margin-left: 188px;
+
+}
+
+
+.mark-img {
+    height: 45px;
+    width: 175px;
+    background-color: rgb(32, 32, 32);
+}
+
+.mark2-img {
+    height: 85px;
+    width: 175px;
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(27, 29, 35);
+}
+
+.mark3-img {
+    height: 50px;
+    width: 175px;
+    background-color: rgb(32, 32, 32);
+}
+
+.exciting-cash-main-div {
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(27, 29, 35);
+    height: 615px;
+    width: 100%;
+}
+
+.guinness-world-record {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-evenly;
+    height: 257px;
+    width: 1020px;
+    margin-left: 244px;
+
+}
+
+.world-record-img {
+    /* width: 90px;
+    height: 90px; */
+    margin-top: 50px;
+    width: 93px;
+    aspect-ratio: auto 93 / 120;
+    height: 120px;
+
+}
+
+.guinness-world-record-main {
+    height: 278px;
+    width: 100%;
+    background-color: black;
+}
+
+.world-record-img-2 {
+    height: 150px;
+    width: 127px;
+    margin-top: 52px;
+}
+
+.g {
+    color: #e9e2e2;
+    font-weight: 400;
+    margin-top: -50px;
+    margin-left: -782px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+.f {
+
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(157 149 149);
+    font-size: small;
+    margin-left: 12px;
+    margin-top: -22px;
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+}
+
+.guinness-para {
+    width: 797px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    margin-left: 442px;
+    margin-top: -59px;
+}
+
+.trusted-platform-img {
+    border-radius: 8px;
+}
+
+.champion {
+    height: 510px;
+    width: 100%;
+    background-color: rgb(27, 29, 35);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.champions-talk {
+    font-family: 'Mukta', sans-serif;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 600;
+    padding-top: 66px;
+    padding-left: 192px;
+    background-color: rgb(27, 29, 35);
+}
+
+.champions-talk-video {
+    height: 412px;
+    width: 360px;
+    background-color: aqua;
+    margin-left: 118px;
+    margin-top: 38px;
+    border-radius: 12px;
+
+    overflow: hidden;
+}
+
+.shubham {
+    height: 412px;
+    width: 360px;
+    background-color: rgb(27, 29, 35);
+    margin-top: 38px;
+    border-radius: 12px;
+    border-style: ridge;
+    border-width: thin;
+    border-color: rgb(53 54 56);
+}
+
+.shubham-img {
+    height: 64px;
+    width: 64px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    object-fit: cover;
+}
+
+.shubham-text {
+    margin-left: 100px;
+    margin-top: -51px;
+    font-family: 'Mukta', sans-serif;
+    color: #afb9c1;
+    background-color: rgb(27, 29, 35);
+}
+
+.shubham-number {
+
+    color: aliceblue;
+    margin-left: 102px;
+    height: 20px;
+    width: 41px;
+    background-color: #9494a9;
+    padding-left: 4px;
+}
+
+.shubham-won-1 {
+    font-family: 'Mukta', sans-serif;
+    margin-left: 20px;
+    margin-top: 35px;
+    color: #afb9c1;
+    background-color: rgb(27, 29, 35);
+}
+
+.shubham-won-2 {
+    margin-left: 20px;
+    margin-top: 50px;
+    color: #afb9c1;
+    font-family: 'Mukta', sans-serif;
+    font-size: smaller;
+    background-color: rgb(27, 29, 35);
+    line-height: 25px;
+}
+
+.ahmedabad {
+    color: #afb9c1;
+    margin-top: -15px;
+    margin-left: 150px;
+    opacity: 50;
+    font-size: smaller;
+    background-color: rgb(27, 29, 35);
+}
+
+.girish {
+    height: 412px;
+    width: 360px;
+    background-color: rgb(27, 29, 35);
+    margin-top: 38px;
+    border-radius: 12px;
+    border-style: ridge;
+    border-width: thin;
+    border-color: rgb(53 54 56);
+}
+
+.girish-img {
+    height: 64px;
+    width: 64px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    object-fit: cover;
+}
+
+.girish-text {
+    margin-left: 100px;
+    margin-top: -51px;
+    font-family: 'Mukta', sans-serif;
+    color: #afb9c1;
+    background-color: rgb(27, 29, 35);
+}
+
+.girish-number {
+    color: aliceblue;
+    margin-left: 102px;
+    height: 20px;
+    width: 41px;
+    background-color: #9494a9;
+    padding-left: 4px;
+}
+
+.Belgaum {
+    color: #afb9c1;
+    margin-top: -15px;
+    margin-left: 150px;
+    opacity: 50;
+    font-size: smaller;
+    background-color: rgb(27, 29, 35);
+}
+
+.girish-won-1 {
+    font-family: 'Mukta', sans-serif;
+    margin-left: 20px;
+    margin-top: 35px;
+    color: #afb9c1;
+    background-color: rgb(27, 29, 35);
+}
+
+.girish-won-2 {
+    margin-left: 20px;
+    margin-top: 50px;
+    color: #afb9c1;
+    font-family: 'Mukta', sans-serif;
+    font-size: smaller;
+    background-color: rgb(27, 29, 35);
+    line-height: 25px;
+}
+
+.responsible-gaming-div-main {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    justify-content: space-evenly;
+
+}
+
+.responsible-gaming-img {
+    height: 80px;
+    width: 80px;
+    margin-left: 145px;
+    margin-top: 65px;
+}
+
+.responsible-gaming-text-1 {
+    margin-left: 110px;
+    color: white;
+    font-family: serif;
+    font-size: larger;
+}
+
+.responsible-gaming-div {
+    background-color: black;
+    height: 270px;
+    width: 360px;
+    margin-left: 116px;
+    margin-top: 50px;
+}
+
+.secured-payments {
+    background-color: black;
+    height: 270px;
+    width: 360px;
+    margin-top: 50px;
+}
+
+.legit {
+    background-color: black;
+    height: 270px;
+    width: 360px;
+    margin-top: 50px;
+}
+
+.responsible-gaming-text-2 {
+    color: aliceblue;
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Ruwudu', serif;
+}
+
+.secured-payments-img {
+    height: 80px;
+    width: 80px;
+    margin-left: 145px;
+    margin-top: 65px;
+}
+
+.secured-payments-text-1 {
+    margin-left: 78px;
+    color: white;
+    font-family: serif;
+    font-size: larger;
+}
+
+.secured-payments-img-2 {
+    margin-top: 15px;
+    margin-left: 42px;
+}
+
+.legit-img {
+    height: 80px;
+    width: 80px;
+    margin-left: 145px;
+    margin-top: 65px;
+}
+
+.legit-text-1 {
+    margin-left: 142px;
+    color: white;
+    font-family: serif;
+    font-size: larger;
+}
+
+.legit-text-2 {
+    color: aliceblue;
+    margin-top: 15px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Ruwudu', serif;
+    text-align: center;
+}
+
+.rummy-game-text {
+    font-family: 'Mukta', sans-serif;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 600;
+    padding-top: 50px;
+    /* padding-left: 192px; */
+    background-color: rgb(27, 29, 35);
+    text-align: center;
+}
+
+.rummy-game-para {
+    color: aliceblue;
+    height: 370px;
+    width: 1239px;
+    background-color: rgb(27, 29, 35);
+    margin-left: 201px;
+    line-height: 35px;
+    font-size: 19px;
+    margin-top: 45px;
+    opacity: 70%;
+}
+
+.rummy-game {
+    width: 100%;
+    height: 1070px;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-faq {
+    width: 100%;
+    height: 1250px;
+    background-color: black;
+}
+
+.rummy-faq-text {
+    font-family: 'Mukta', sans-serif;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 600;
+    margin-top: 66px;
+    margin-left: 192px;
+}
+
+.rummy-faq-inner-div {
+    color: aliceblue;
+    height: 1160px;
+    width: 1239px;
+    background-color: rgb(27, 29, 35);
+    margin-left: 201px;
+    line-height: 35px;
+    font-size: 19px;
+    margin-top: 45px;
+    border-radius: 12px;
+    border-width: thin;
+    border-style: inset
+}
+
+.rummy-legal-head {
+    height: 30px;
+    width: 351px;
+    color: white;
+    margin-left: 75px;
+    margin-top: 40px;
+    /* background-color: violet; */
+    font-size: 21px;
+    font-weight: 500;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-legal-para {
+    color: #ded4d4;
+    margin-top: 20px;
+    margin-left: 75px;
+    font-size: 20px;
+    line-height: 28px;
+    background-color: rgb(27, 29, 35);
+    opacity: 70%;
+}
+
+.rummy-legal-para li {
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-legal-head-2 {
+    height: 30px;
+    width: 360px;
+    color: white;
+    margin-left: 75px;
+    margin-top: -9px;
+    font-size: 21px;
+    font-weight: 500;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-note-img {
+    height: 18px;
+    width: 18px;
+    margin-top: 49px;
+    margin-left: 32px;
+    position: absolute;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-note-img-2 {
+    height: 19px;
+    width: 19px;
+    margin-top: 30px;
+    margin-left: -43px;
+    position: absolute;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-download {
+    height: 30px;
+    width: 757px;
+    color: white;
+    margin-left: 85px;
+    margin-top: -9px;
+    font-size: 21px;
+    font-weight: 500;
+    background-color: rgb(27, 29, 35);
+}
+
+.rummy-note-img-3 {
+    height: 19px;
+    width: 19px;
+    /* margin-top: 0px; */
+    margin-left: 38px;
+    position: absolute;
+    background-color: rgb(27, 29, 35);
+}
+
+.www-rummy-com {
+    color: white;
+    background-color: rgb(27, 29, 35);
+}
+
+.li {
+    margin-left: 40px;
+    opacity: 70%;
+    margin-left: 40px;
+}
+
+.ul-rummy-download {
+    background-color: rgb(27, 29, 35);
+    margin-left: 88px;
+}
+
+.ul-rummy-download li {
+    background-color: rgb(27, 29, 35);
+}
+
+.hulk {
+    background-color: rgb(27, 29, 35);
+}
+
+.as-seen-as-div {
+    height: 277px;
+    width: 100%;
+    background-color: black
+}
+
+.as-seen-as-head {
+    color: aliceblue;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 33px;
+    position: absolute;
+    margin-left: 746px;
+}
+
+.as-seen-img {
+    height: 70px;
+    width: 195px;
+    margin-top: 100px;
+}
+
+.as-seen-inner-div {
+    height: 275px;
+    width: 1240px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+
+.about-us-div {
+    height: 880px;
+    width: 100%;
+    background-color: #2b0a04;
+    padding-top: 1px;
+}
+
+.inner-about-us {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 1100px;
+    height: 305px;
+    background-color: #2b0a04;
+    margin-left: 189px;
+}
+
+/* about-us-para-1 {
+    font-size: 30px;
+    color: white;
+    background-color: bisque;
+} */
+.inner-1 p {
+    color: rgb(217, 209, 209);
+    background-color: #2b0a04;
+
+
+}
+
+.inner-1 {
+    height: 304px;
+    width: 208px;
+    background-color: #e9e2e2;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    background-color: #2b0a04;
+}
+
+.inner-2 {
+    height: 304px;
+    width: 208px;
+    background-color: #e9e2e2;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    background-color: #2b0a04;
+}
+
+.inner-2 p {
+    color: rgb(217, 209, 209);
+    background-color: #2b0a04;
+
+}
+
+.inner-3 {
+    height: 304px;
+    width: 208px;
+    background-color: #e9e2e2;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    background-color: #2b0a04;
+}
+
+.inner-3 p {
+    color: rgb(217, 209, 209);
+    background-color: #2b0a04;
+}
+
+.inner-4 {
+    height: 304px;
+    width: 208px;
+    background-color: #e9e2e2;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    background-color: #2b0a04;
+}
+
+.inner-4 p {
+    color: rgb(217, 209, 209);
+
+    background-color: #2b0a04;
+}
+
+.app-store-div {
+    width: 1100px;
+    height: 305px;
+    background-color: #2b0a04;
+    margin-left: 189px;
+}
+
+.app-store {
+    border-radius: 6px;
+    border-width: thin;
+
+}
+
+.play-store {
+    border-radius: 6px;
+    border-width: thin;
+}
+
+.gameskraft-head {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1px;
+    color: #e2e8ed;
+    margin-top: 25px;
+    background-color: #2b0a04;
+}
+
+.gameskraft-para {
+    color: rgb(217, 209, 209);
+    margin-top: 12px;
+    background-color: #2b0a04;
+}
+
+.know-more {
+    color: orange;
+    background-color: #2b0a04;
+}
+
+.know-more:hover {
+    color: yellow;
+}
+
+.rummy-end-logo {
+    margin-top: 120px;
+    height: 35px;
+    width: 142px;
+    background-color: #2b0a04;
+}
+
+.mid-end {
+    color: aliceblue;
+    margin-top: -39px;
+    font-size: 12px;
+    margin-left: 455px;
+    opacity: 80%;
+    background-color: #2b0a04;
+    width: 170px;
+    text-align: center;
+}
+
+.right-end-div {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 32px;
+    width: 260px;
+
+    margin-left: 1028px;
+    margin-top: 92px;
+    background-color: #2b0a04;
+}
+
+.right-end-img {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #2b0a04;
+}
+
+.inner-4 p:hover {
+    color: white;
+}
+
+.inner-3 p:hover {
+    color: white
+}
+
+.inner-2 p:hover {
+    color: white
+}
+
+.inner-1 p:hover {
+    color: white
+}
+
+.footer {
+    height: 135px;
+    width: 100%;
+    background-color: rgb(235, 21, 21);
+
+    display: flex;
+    /* position: absolute; */
+    /* bottom: 0px; */
+}
+
+
+.inner-footer {
+    height: 85px;
+    width: 80%;
+    background-color: rgb(17, 17, 17);
+    display: flex;
+    /* margin-left: 150px; */
+    position: sticky;
+    bottom: 20px;
+    /* margin: auto; */
+    /* margin: 45px; */
+    margin-left: 140px;
+    margin-top: 40px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #232526;
+    border-style: groove;
+    background-image: linear-gradient(45deg, black, #1f1d1d);
+}
+
+.footer-img {
+    height: 48px;
+    width: 48px;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+.footer-para {
+    color: #e2e8ed;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Mukta', sans-serif;
+}
+
+.footer-para2 {
+    color: #e2e8ed;
+    font-size: 12px;
+    margin-top: 45px;
+    margin-left: -195px;
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(17, 17, 17);
+    height: 0px;
+}
+
+.footer-mob {
+    height: 35px;
+    width: 236px;
+    color: #e2e8ed;
+    margin-left: 360px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    padding-left: 10px;
+    color: #afb9c1;
+    border-color: rgba(0, 0, 0, .6);
+}
+
+.footer-submit {
+    height: 46px;
+    margin-top: 18px;
+    width: 200px;
+    color: black;
+    margin-left: 20px;
+    left: 10px;
+    border-radius: 15px;
+    border-width: thin;
+    border-style: groove;
+    background-color: rgb(247, 171, 29);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.footer-submit:hover {
+    background-color: rgb(211, 173, 102);
+}
+
+#view-all-q {
+    float: right;
+    margin-top: -86px;
+    margin-right: 170px;
+    font-size: 25px;
+}
+
+.arrow-btn img {
+    width: 30px;
+    height: 29px;
+    background-color: rgb(255, 176, 28);
+    /* margin-left: 1320px; */
+    margin-top: -21px;
+    /* color: #e2e8ed; */
+    position: absolute;
+    margin-left: 1350px;
+    border-radius: 16px;
+}
